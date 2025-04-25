@@ -1,0 +1,65 @@
+🛠️ Features
+The GamerEdit plugin provides a modern alternative to WorldEdit with:
+
+🪓 GamerEdit Tool
+
+Get the edit axe with //edit
+
+"GamerEdit Tool" with custom name
+
+🔲 Block Operations
+
+//set <Block> - Fills selected area
+
+//replace <from> <to> - Replaces blocks
+
+//verlauf <start> <end> - Creates color gradients
+
+🎯 Visual Selection
+
+Red particles mark selection corners
+
+Clear position confirmations in chat
+
+🔐 Permissions
+
+Requires gamer.edit permission or OP
+
+✅ Installation
+Download the plugin JAR file
+
+Place the JAR in your plugins folder
+
+Restart your server
+
+📋 Commands
+Basic Commands:
+
+//edit - Get the GamerEdit Tool
+//set <Block> - Fill area with block
+//replace <from> <to> - Replace blocks
+//verlauf <start> <end> - Create gradient
+Tool Usage:
+
+Left Click - Set position 1
+
+Right Click - Set position 2
+
+⚠️ Notes
+Requires Java 21
+
+Compatible with Minecraft 1.21.4
+
+For Paper/Spigot servers only
+
+🌟 Tips
+Use tab completion for block names
+
+Selection is visible through red particles
+
+Large areas may take some time to process
+
+⚠️ PLEASE DO NOT CLAIM THIS PLUGIN AS YOUR OWN ⚠️
+Feel free to contact me with questions or issues!
+
+Happy building! 🏗️
